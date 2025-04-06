@@ -1,0 +1,8 @@
+Column name;Relevant?;Type;Constraints/Rules;;;
+id;No;-;-;;;
+full_name;No;-;-;;;
+abbreviation;Yes;String;-;;;
+nickname;No;-;-;;;
+city;Yes;String;-;;;
+state;Yes;String;-;;;
+year_founded;No;-;-;;;
